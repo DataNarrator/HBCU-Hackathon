@@ -1,4 +1,4 @@
-# HBCU-Hackathon
+# HBCU-Hackathon: Canceling Cancer
 
 HCSC411 Data Science I
 The Data Science I course introduces students to some of the most popular statistical methods in data science and machine learning for various tasks, such as classification and regression. The course utilizes a coding/programming language help to identify, analyze, and efficiently organize structured and unstructured data. These languages thus constitute an integral part of the syllabus of Data Science. Modules include a series of hands-on labs which will give students practical skills with applicability to real-world data. At the end of the course, the student completes and presents an analytical summary of an applied learning project using the skills learned throughout the course.
