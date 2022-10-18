@@ -24,19 +24,16 @@ Supercomputers can help us better understand:
 
 Needed resources:
 •	Experienced faculty member in Data Science 
-•	Atlanta University Center (AUC) Virtual Computer Lab
+•	Atlanta University Center (AUC) Virtual Computer Lab https://datascience.aucenter.edu/vcl
 •	ORNL HPC System, including the ORNL Crash Course in HPCC Systems
-•	Jupyter Notebooks 
-•	R-Studio
+•	Jupyter Notebooks https://jupyter.org/
+•	R-Studio https://cran.r-project.org/ https://www.rstudio.com/
 
-Sample code broken into tasks:
+Programming tasks:
 •	Setting up the Jupyter notebook 
-•	Loading data 
+•	Loading packages and data 
 •	Exploratory Data Analysis: summary statistics, tables and graphs
 •	Partioning into training and test set
 •	Random Forest algorithm
 •	Evalutaion of model
-
-
  
-Coded Example Exercise
