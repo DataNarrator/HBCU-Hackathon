@@ -22,7 +22,7 @@ Supercomputers can help us better understand:
 •	help elucidate patterns in vast and complex data sets that advance our understanding of cancer.
 
 Needed resources:
-•	Experienced faculty member in Data Science 
+•	Experienced faculty in Data Science 
 •	Atlanta University Center (AUC) Virtual Computer Lab https://datascience.aucenter.edu/vcl
 •	ORNL HPC System, including the ORNL Crash Course in HPCC Systems
 •	Jupyter Notebooks https://jupyter.org/
